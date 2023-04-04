@@ -1,0 +1,98 @@
+
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1503174971373-b1f69850bded?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmVhbHN0YXRlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60);
+    width: 100%;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+} 
+
+
+
+
+
+.navbar{
+    height: 45px;
+    width: 100%;
+    background-color: gray;
+}
+ li {
+    float: right;
+   list-style: none;
+   margin: 15px 20px;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px 15px;
+    border-radius: 4px;
+    text-transform: uppercase;
+
+
+}
+
+
+.logo{
+     position: absolute;
+    margin-right: 40px;
+    margin-left: 40px;
+  
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+    text-transform:uppercase ;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding: 0%;
+    border-radius: 5px;
+    font-size: 25px;
+  
+    
+}
+
+
+a:hover{
+    background-color: lawngreen;
+}
+
+
+.logo:hover{
+    background-color: lawngreen;
+
+}
+.slagon{
+    margin-left: 300px;
+    margin-top: 300px;
+    /* color: aqua; */
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.firstbtn{
+    margin-left: 300px;
+    margin-top: 9px;
+    
+}
+span{
+    font-size: 40px;
+    font-weight: bolder;
+}
